@@ -4,6 +4,8 @@ CISC881 LNDb Challange 2019
 - our group attempted sub-challenge A: nodule detection
 - we constructed our 3D CNN architecture inspired by this paper (Q Dou, “Multilevel Contextual 3-D CNNs for False Positive Reduction in Pulmonary Nodule Detection”, Nov 2018)
 - we also borrowed ideas from this github repo (https://github.com/shartoo/luna16_multi_size_3dcnn/tree/f5ac4d4b5458e90c6739ab4ba427706ab2477f28)
+- Paper reference: 
+Q, Dou; "Multilevel Contextual 3-D CNNs for False Positive Reduction in Pulmonary Nodule Detection"; IEEE; Nov 2018
 
 
 
