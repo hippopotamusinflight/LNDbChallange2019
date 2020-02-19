@@ -6,7 +6,7 @@ import os
 import traceback
 import pickle
 
-from data_preparing import *
+from normalization import *
 
 '''
 mhd_path is the path containing all original image data
