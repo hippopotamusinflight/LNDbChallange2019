@@ -8,7 +8,7 @@ import os
 from glob import glob
 import pickle
 
-from data_preparing import *
+from normalization import *
 
 # ------------------------------- #
 cube_generation_dir = "/global/home/hpc4535/LNDbChallenge/LNDb_preprocessing_generate_all_cubes/"
